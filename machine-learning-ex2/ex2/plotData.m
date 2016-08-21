@@ -4,7 +4,8 @@ function plotData(X, y)
 %   and o for the negative examples. X is assumed to be a Mx2 matrix.
 
 % Create New Figure
-figure; hold on;
+figure; 
+hold on;
 
 % ====================== YOUR CODE HERE ======================
 % Instructions: Plot the positive and negative examples on a
